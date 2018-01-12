@@ -20,7 +20,7 @@ function correctBaseUrl(_baseurl) {
       _baseurl = _baseurl.slice(0, -1);
     }
   }
-  return _baseurl;
+  return "../_site";
 }
 
 

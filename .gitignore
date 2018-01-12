@@ -22,7 +22,6 @@ patternfly.spec
 _build
 *.map
 =======
-_site
 public
 .DS_Store
 bower_components
